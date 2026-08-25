@@ -37,19 +37,3 @@ Trago uma sólida bagagem em operações críticas e infraestrutura — incluind
   <a href="https://www.linux.org/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=linux" alt="Linux" width="40" height="40"/></a> 
   <a href="https://www.nginx.com/" target="_blank" rel="noreferrer"><img src="https://skillicons.dev/icons?i=nginx" alt="NGINX" width="40" height="40"/></a> 
 </p>
-
----
-
-### Estatísticas no GitHub
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=natanmassuia&show_icons=true&layout=compact&hide_border=true" alt="Linguagens mais usadas" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-stats.vercel.app/api?username=natanmassuia&show_icons=true&hide_border=true" alt="Estatísticas do GitHub" />
-</p>
-
-<p align="left">
-  <img src="https://github-readme-streak-stats.herokuapp.com/?user=natanmassuia&hide_border=true" alt="Streak do GitHub" />
-</p>
